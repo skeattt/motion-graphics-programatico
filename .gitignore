@@ -1,0 +1,7 @@
+# renders e arquivos gerados (os GIFs do README ficam em docs/gifs)
+pieces/*/9x16/
+pieces/*/16x9/
+pieces/*/source/comp-*.html
+pieces/*/source/qa/
+__pycache__/
+*.part.*
